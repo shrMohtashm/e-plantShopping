@@ -12,7 +12,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background-color: #4CAF50;
+    background-color: #2E1065;
     color: #fff!important;
     padding: 15px;
     display: flex;
@@ -67,7 +67,7 @@ body {
     padding: 20px;
     background-color: #fff;
     border: 1px solid #ccc;
-    border-radius: 5px;
+    border-radius: 7px;
     text-align: center;
     position: relative;
     
@@ -249,4 +249,11 @@ body {
       .ul div {
         text-align: center; /* Align text to the center */
       }
+  }
+
+  .cart{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }

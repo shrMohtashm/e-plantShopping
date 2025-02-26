@@ -69,7 +69,7 @@
 .divider {
   width: 50px;
   height: 2px;
-  background-color: #4caf50;
+  background-color: #2E1065;
   margin: 10px 0;
 }
 
@@ -78,7 +78,7 @@
   font-size: 23px;
   border: none;
   border-radius: 5px;
-  background-color: #4caf50;
+  background-color: #2E1065;
   color: white;
   cursor: pointer;
   transition: background-color 0.3s ease;
@@ -86,7 +86,7 @@
 }
 
 .get-started-button:hover {
-  background-color: #45a049;
+  background-color: #2E1065;
 }
 
 /* ProductList.css */
