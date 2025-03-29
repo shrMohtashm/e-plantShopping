@@ -13,7 +13,7 @@ Check out the live demo of the website [here](https://shrmohtashm.github.io/e-pl
 
 ### Landing Page
 
-- Displays a background image and a welcoming paragraph about *Sahar Nursery*.
+- Displays a background image and a welcoming paragraph about *Paradise Nursery*.
 - Shows the company name prominently.
 - Includes a **Get Started** button that navigates to the product listing page.
 
@@ -59,7 +59,7 @@ Check out the live demo of the website [here](https://shrmohtashm.github.io/e-pl
    ```
 3. Run the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## License
