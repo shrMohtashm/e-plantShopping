@@ -50,16 +50,21 @@ Check out the live demo of the website [here](https://shrmohtashm.github.io/e-pl
 ## <img width="25" height="25" src="https://img.icons8.com/ios/50/61dafb/maintenance--v1.png" alt="maintenance--v1"/> Installation
 
 1. Clone the repository:
-   ```bash
+
+    ```bash
    git clone https://github.com/shrMohtashm/e-plantShopping.git
    cd e-plantShopping
    ```
-2. Install dependencies:
+    
+3. Install dependencies:
+
    ```bash
    npm install
    ```
-3. Run the development server:
-   ```bash
+   
+5. Run the development server:
+
+    ```bash
    npm run dev
    ```
 
