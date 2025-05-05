@@ -53,7 +53,6 @@ Check out the live demo of the website [here](https://shrmohtashm.github.io/e-pl
 
     ```bash
    git clone https://github.com/shrMohtashm/e-plantShopping.git
-   cd e-plantShopping
    ```
     
 3. Install dependencies:
